@@ -37,5 +37,7 @@ public class Entry
 		phoneNumber = String.valueOf(areaCode) + "-" + String.valueOf(prefix) + "-" + String.valueOf(personalCode);
 		fullName = lastName + ", " + firstName;
 	}
+	
+	//TODO add accessors and modifiers
 
 }

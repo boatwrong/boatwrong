@@ -22,9 +22,9 @@ public class Directory {
 		return false;
 	}
 	
-	public Entry getEntry(String firstName, String lastName)
+	public void getEntry()
 	{
-		return null;
+		// figure out way to search for name in Entry array
 	}
 	
 }
